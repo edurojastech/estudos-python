@@ -33,18 +33,18 @@ O objetivo é registrar minha evolução na linguagem, reforçar conceitos e ser
 
 ---
 
-## 🚀 Como Executar os Exercícios
+## 🚀 Como Executar
 1. Certifique-se de ter o **Python 3.x** instalado:
    ```bash
    python --version
    
 2. Clone este repositório:
- ```bash
-  git clone https://github.com/seu-usuario/estudos-python.git
-  ````
+```bash
+git clone https://github.com/seu-usuario/estudos-python.git
+````
 
 3. Acesse a pasta do projeto:
-  ```bash
-  cd python-onebitcode
-  ```
+```bash
+cd python-onebitcode
+```
 
